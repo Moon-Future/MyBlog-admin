@@ -1,0 +1,23 @@
+{
+  "name": "hexo-server",
+  "version": "1.0.0",
+  "description": "个人博客管理后台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moon-Future/MyBlog-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moon-Future/MyBlog-admin/issues"
+  },
+  "homepage": "https://github.com/Moon-Future/MyBlog-admin#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-static": "^5.0.0"
+  }
+}
